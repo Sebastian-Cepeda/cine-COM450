@@ -31,6 +31,10 @@ o
 
 # Dependencias Front-end
 
+Debe de instalar [Nodejs](https://nodejs.org/en/) y posteriormete instalar angular con:
+
+```npm install -g @angular/cli```
+
 # Ejecucion
 
 Ejectute ```ng serve``` para un servidor de desarrollo, localizado en  ```http://localhost:4200/``` . La aplicaión se recargará automáticamente si cambia alguno de los archivos de origen
